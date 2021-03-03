@@ -1,0 +1,35 @@
+body {
+    font-family: system-ui;
+    background: Gainsboro;
+    color: Black;
+    text-align: center;
+  }
+  
+  #Summary {
+    text-align: center; 
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
+  h1 {
+    background-color: grey;
+    
+  }
+
+  h5 {
+    font-size: 30px;
+
+  }
+  
+  #image {
+  width: 100%;
+  height: auto;
+  max-width: 625px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  }
+  
+  
